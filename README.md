@@ -28,7 +28,7 @@
                 <p>Description of Game 1</p>
             </div>
             <div class="game">
-                <img src="bobgaming.my.canva.site/bobgamingplace" alt="Game 2">
+                <img src="https://clavinmogmax.github.io" alt="Game 2">
                 <h3>Game 2</h3>
                 <p>Description of Game 2</p>
             </div>
